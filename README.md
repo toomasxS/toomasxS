@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Tomás Stasto 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+Programação+Informática;Apaixonado+por+Tecnologia;Sempre+a+aprender+algo+novo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+Programa%C3%A7%C3%A3o+Inform%C3%A1tica;Apaixonado+por+Tecnologia;Sempre+a+aprender+algo+novo!" alt="Typing SVG" />
 </p>
 
 <p align="center">
