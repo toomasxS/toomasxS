@@ -78,7 +78,7 @@ Estou sempre à procura de aprender novas linguagens, ferramentas e boas prátic
 ---
 
 <p align="center">
-  <i>"O código é poesia escrita em lógica."</i><br/>
+  <i>"É difícil mas não posso desistir"</i><br/>
   <b>— Tomás Stasto</b>
 </p>
 
