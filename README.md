@@ -20,7 +20,6 @@ Estou sempre à procura de aprender novas linguagens, ferramentas e boas prátic
 - 🎓 A estudar **Programação de Informática**
 - 🌱 Atualmente a aprender e a melhorar as minhas competências de programação
 - 💡 Interessado em **Desenvolvimento Web**, **Lógica de Programação** e **Bases de Dados**
-- 🤝 Aberto a colaborações e projetos de aprendizagem
 - 📍 Portugal
 
 ---
@@ -67,20 +66,12 @@ Estou sempre à procura de aprender novas linguagens, ferramentas e boas prátic
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:teu.email@exemplo.com">
+  <a href="mailto:a14786@oficina.pt">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tomas-stasto" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <i>"É difícil mas não posso desistir"</i><br/>
-  <b>— Tomás Stasto</b>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" />
