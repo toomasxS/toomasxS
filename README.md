@@ -40,19 +40,6 @@ Estou sempre à procura de aprender novas linguagens, ferramentas e boas prátic
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TomasStasto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomasStasto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TomasStasto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🚀 Objetivos para 2026
 
 - [ ] Dominar o desenvolvimento **Front-end** (HTML, CSS, JavaScript)
